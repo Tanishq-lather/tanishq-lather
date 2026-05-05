@@ -1,6 +1,6 @@
 import { AboutSection } from "../components/AboutSection"
 import { HeroSection } from "../components/HeroSection"
-import { Navbar } from "../components/navbar"
+import { Navbar } from "../components/Navbar"
 import { NightRainBG } from "../components/NightRainBG"
 import { ThemeToggle } from "../components/ThemeToggle"
 import { SkillsSection } from "../components/SkillsSection"
