@@ -91,15 +91,19 @@ export const ContactSection = ({ showAlert, setShowAlert }) => {
                             <div className="flex space-x-4 justify-center">
                                 <a href="https://www.linkedin.com/in/tanishq-lather/" target="_blank">
                                     <i className="fa-brands fa-linkedin fa-lg"></i>
+                                    <span className="sr-only">Visit my LinkedIn profile</span>
                                 </a>
                                 <a href="https://x.com/Tanishq_lather" target="_blank">
                                     <i className="fa-brands fa-x-twitter fa-lg"></i>
+                                    <span className="sr-only">Visit my Twitter profile</span>
                                 </a>
                                 <a href="https://www.instagram.com/tanishq_lather/?hl=en" target="_blank">
                                     <i className="fa-brands fa-instagram fa-lg"></i>
+                                    <span className="sr-only">Visit my Instagram profile</span>
                                 </a>
                                 <a href="https://www.youtube.com/@Separate_Vibe" target="_blank">
                                     <i className="fa-brands fa-youtube fa-lg"></i>
+                                    <span className="sr-only">Visit my YouTube channel</span>
                                 </a>
                             </div>
                         </div>

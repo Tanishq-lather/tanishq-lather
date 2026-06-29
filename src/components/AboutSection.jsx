@@ -4,9 +4,9 @@ export const AboutSection = () =>  {
     return (
         <section className="py-24 px-4 relative" id="about">
             <div className="container mx-auto max-w-5xl">
-                <h1 className="text-3xl md:text-4xl font-bold mb-12 text-center">
+                <h2 className="text-3xl md:text-4xl font-bold mb-12 text-center">
                     About <span className="text-primary">Me</span>
-                </h1>
+                </h2>
 
                 <div className="grid grid-cols-1 md:grid-cols-2 gap-12 items-center">
                     <div className="space-y-6">
